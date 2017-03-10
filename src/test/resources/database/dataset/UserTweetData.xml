@@ -1,0 +1,12 @@
+<dataset>
+
+    <usertweet user_name="testuser" message="hello" message_post_date="2017-03-10 15:00:00" />
+
+    <usertweet user_name="testuser1" message="hello11" message_post_date="2017-03-10 15:00:00" />
+    <usertweet user_name="testuser1" message="hello12" message_post_date="2017-03-10 15:10:00" />
+
+    <usertweet user_name="testuser2" message="hello21" message_post_date="2017-03-10 15:10:00" />
+    <usertweet user_name="testuser2" message="hello22" message_post_date="2017-03-10 15:20:00" />
+    <usertweet user_name="testuser2" message="hello23" message_post_date="2017-03-10 15:30:00" />
+
+</dataset>
